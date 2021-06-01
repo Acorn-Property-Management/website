@@ -1,0 +1,28 @@
+email: 'miranda@acornmgt.com'
+phone: '614-300-7744'
+businessName: 'Acorn Property Management'
+address: |
+  P.O. Box #
+  Columbus, Ohio 43220
+hours:
+  - day: Monday
+    open: 9:00am
+    close: 4:00pm
+  - day: Tuesday
+    open: 9:00am
+    close: 4:00pm
+  - day: Wednesday
+    open: 9:00am
+    close: 4:00pm
+  - day: Thursday
+    open: 9:00am
+    close: 4:00pm
+  - day: Friday
+    open: 9:00am
+    close: 4:00pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:

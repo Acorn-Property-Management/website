@@ -1,0 +1,49 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Acorn Property Management"
+themesDir = "themes"
+theme = "hugo-hero-theme-custom"
+publishDir = "docs"
+
+# ---------------------------------------------------------------------------------
+# Site Params
+# ---------------------------------------------------------------------------------
+[params]
+  google_analytics_id="UA-198337024-1"
+  statement = "fair housing"
+
+  [params.homepage_meta_tags]
+    meta_description = ""
+    meta_og_title = ""
+    meta_og_type = "website"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = ""
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@"
+    meta_twitter_creator = "@"
+
+# ---------------------------------------------------------------------------------
+# Main Menu
+# ---------------------------------------------------------------------------------
+[[menu.main]]
+	name = "Home"
+	url = "/"
+    weight = 1
+
+#[[menu.main]]
+#	name = "Services"
+#	url = "/services/"
+#    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+# ---------------------------------------------------------------------------------
+# Permalinks
+# ---------------------------------------------------------------------------------
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

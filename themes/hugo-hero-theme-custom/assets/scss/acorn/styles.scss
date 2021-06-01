@@ -1,0 +1,30 @@
+//---------------------------
+// Theme Overrides
+//---------------------------
+.logo {
+    a {
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+}
+
+.brand-name {
+    font-weight: $font-weight-bold;
+}
+
+.menu-item-contact {
+    font-weight: $font-weight-bold;
+}
+
+.sub-footer {
+    display: none;
+}
+
+// temp display | no footer navigation
+.footer-menu {
+    display: none !important;
+}
+
+.hero-down {
+    visibility: hidden !important;
+}
