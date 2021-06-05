@@ -2,8 +2,8 @@
 title: 'Inspection'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
-draft: false
-featured: true
+draft: true
+featured: false
 weight: 2
 heroHeading: 'Inspection'
 heroSubHeading: 'Preparing to buy? Let us confirm your decision'
