@@ -16,8 +16,19 @@
     font-weight: $font-weight-bold;
 }
 
+.fas {
+  font-size: 2em;
+  color: $primary;
+}
+
+// ----------- temp --------------
+
 .sub-footer {
     display: none;
+}
+
+.button-primary {
+    display: none !important;
 }
 
 // temp display | no footer navigation

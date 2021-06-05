@@ -6112,6 +6112,8 @@ ul.social {
     .service-summary .service-content .service-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
+      .service-summary .service-content .service-title .no-link {
+        color: #628206; }
     .service-summary .service-content p {
       color: #666;
       font-size: 0.9rem;
@@ -6173,8 +6175,15 @@ ul.social {
 .menu-item-contact {
   font-weight: 700; }
 
+.fas {
+  font-size: 2em;
+  color: #628206; }
+
 .sub-footer {
   display: none; }
+
+.button-primary {
+  display: none !important; }
 
 .footer-menu {
   display: none !important; }
