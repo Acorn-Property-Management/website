@@ -1,15 +1,18 @@
 ---
 title: 'Leasing Services'
-date: 2018-11-28T15:15:34+10:00
+date: 2021-07-04T15:15:34+10:00
 icon: ''
 fontawesome_icon: 'fas fa-tasks'
-featured: true
 draft: false
-enable_link: false
+featured: true
+enable_link: true
 weight: 2
 heroHeading: 'Leasing Services'
 heroSubHeading: 'Self-managing? Let us ease your leasing burden.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/semen-borisov-0zeJ8sQB8KU-unsplash.jpg'
+heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; background-position: 50% 50%;'
 ---
 
 Self-managing? Let us ease your leasing burden.
+
+For owners who need more than leasing services, we offer [Full Service Property Management](/services/property-management/).

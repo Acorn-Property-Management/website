@@ -1,15 +1,20 @@
 ---
 title: 'Property Management'
-date: 2018-11-18T12:33:46+10:00
+date: 2021-07-04T12:33:46+10:00
 icon: ''
 fontawesome_icon: 'fas fa-home'
 draft: false
 featured: true
-enable_link: false
+enable_link: true
 weight: 1
 heroHeading: 'Property Management'
 heroSubHeading: 'SUBHEADING GOES HERE'
-heroBackground: 'static/images/service1.jpg'
+heroBackground: 'images/chau-le-oZ2OYOLcJ6Y-unsplash.jpg'
+heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; background-position: 50% 50%;'
 ---
 
 Residential investment property? Reduce your stress with our full-service offerings.
+
+
+
+If all you need is assistance with tenant placement, we offer [leasing services](/services/leasing-services/) and you can do the rest.
