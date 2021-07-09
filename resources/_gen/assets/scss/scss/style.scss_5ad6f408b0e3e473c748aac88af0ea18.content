@@ -6179,6 +6179,9 @@ ul.social {
   font-size: 2em;
   color: #628206; }
 
+.hero-text {
+  text-shadow: 2px 2px #000000; }
+
 .sub-footer {
   display: none; }
 

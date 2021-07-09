@@ -9,8 +9,8 @@ enable_link: true
 weight: 2
 heroHeading: 'Leasing Services'
 heroSubHeading: 'Self-managing? Let us ease your leasing burden.'
-heroBackground: 'images/semen-borisov-0zeJ8sQB8KU-unsplash.jpg'
-heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; background-position: 50% 50%;'
+heroBackground: 'images/iStock-146776827-resize-crop.jpg'
+heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; background-position-y: -200px;'
 ---
 
 Self-managing? Let us ease your leasing burden.

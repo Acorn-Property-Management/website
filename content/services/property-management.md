@@ -8,9 +8,9 @@ featured: true
 enable_link: true
 weight: 1
 heroHeading: 'Property Management'
-heroSubHeading: 'SUBHEADING GOES HERE'
+heroSubHeading: 'Relax'
 heroBackground: 'images/chau-le-oZ2OYOLcJ6Y-unsplash.jpg'
-heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; background-position: 50% 50%;'
+heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; background-position-y: -220px;'
 ---
 
 Residential investment property? Reduce your stress with our full-service offerings.
