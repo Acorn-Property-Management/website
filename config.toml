@@ -37,9 +37,19 @@ publishDir = "docs"
 #    weight = 2
 
 [[menu.main]]
+    name = "Available"
+    url = "https://acornmgt.managebuilding.com"
+    weight = 3
+
+[[menu.main]]
+    name = "Residents"
+    url = "https://acornmgt.managebuilding.com/resident/portal"
+    weight = 4
+
+[[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 5
 
 # ---------------------------------------------------------------------------------
 # Permalinks

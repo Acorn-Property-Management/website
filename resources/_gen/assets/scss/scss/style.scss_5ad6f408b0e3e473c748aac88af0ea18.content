@@ -6172,9 +6172,6 @@ ul.social {
 .brand-name {
   font-weight: 700; }
 
-.menu-item-contact {
-  font-weight: 700; }
-
 .fas {
   font-size: 2em;
   color: #628206; }
