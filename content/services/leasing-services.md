@@ -5,7 +5,7 @@ icon: ''
 fontawesome_icon: 'fas fa-tasks'
 draft: false
 featured: true
-enable_link: true
+enable_link: false
 weight: 2
 heroHeading: 'Leasing Services'
 heroSubHeading: 'Self-managing? Let us ease your leasing burden.'
@@ -14,5 +14,3 @@ heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; backgro
 ---
 
 Self-managing? Let us ease your leasing burden.
-
-For owners who need more than leasing services, we offer [Full Service Property Management](/services/property-management/).

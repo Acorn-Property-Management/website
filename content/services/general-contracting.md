@@ -5,7 +5,7 @@ icon: ''
 fontawesome_icon: 'fas fa-tools'
 draft: false
 featured: true
-enable_link: true
+enable_link: false
 weight: 3
 heroHeading: 'General Contracting'
 heroSubHeading: 'Expert advice and guidance when you need it most.'

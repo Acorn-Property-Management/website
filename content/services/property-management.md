@@ -5,7 +5,7 @@ icon: ''
 fontawesome_icon: 'fas fa-home'
 draft: false
 featured: true
-enable_link: true
+enable_link: false
 weight: 1
 heroHeading: 'Property Management'
 heroSubHeading: 'Relax'
@@ -14,7 +14,3 @@ heroStyles: 'background-repeat: no-repeat; background-attachment: fixed; backgro
 ---
 
 Residential investment property? Reduce your stress with our full-service offerings.
-
-
-
-If all you need is assistance with tenant placement, we offer [leasing services](/services/leasing-services/) and you can do the rest.
