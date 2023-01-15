@@ -3,3 +3,5 @@ node_modules
 .idea
 public
 local_git_config.sh
+.hugo_build.lock
+resources
